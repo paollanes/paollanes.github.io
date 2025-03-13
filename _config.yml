@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Paolo Llanes"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Currently pursuing further studies in Marketing and Data Analytics at Southern Alberta Institute of Technology (SAIT), in Calgary, Alberta."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/paolo-martin-llanes/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
