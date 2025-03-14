@@ -62,8 +62,7 @@ author:
   avatar : "/assets/images/pao.jpg"
   bio    : "Marketing and Data Analytics"
   links:
-    - label: "Calgary, AB CA"
-      icon: "fa-solid fa-location-dot"
+  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/paolo-martin-llanes/"
@@ -73,6 +72,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/paollanes/"
+    - label: "Calgary, AB CA"
+      icon: "fa-solid fa-location-dot"
    
 
 footer:
